@@ -12,6 +12,12 @@ The following languages were used during the development of this website:
 - **CSS3**
 - **JavaScript**
 
+## live preview
+
+You can find the live site at the url below...
+
+[live preview](https://oduortoni.github.io/portfolio/)
+
 ## Usage
 
 You can run this project locally by doing the following:
